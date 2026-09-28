@@ -16,3 +16,5 @@ The page uses only local HTML, CSS, JavaScript, SVG, PNG, and GIF assets; no bui
 - `assets/images/clustering-dynamics.gif` — long-horizon clustering animation
 
 When an arXiv identifier is available, replace the disabled **Paper soon** element in `index.html` with an anchor pointing to the paper URL, and update the BibTeX block in the Citation section.
+
+Commit changes
